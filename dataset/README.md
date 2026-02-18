@@ -101,7 +101,7 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-Vishal, Tanish, SriKrisha, Yohan
+Vishal, Tanish, SriKrishna, Yohan
 
 ---
 
