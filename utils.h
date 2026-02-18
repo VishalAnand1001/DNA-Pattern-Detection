@@ -1,8 +1,9 @@
 #ifndef UTILS_H
 #define UTILS_H
+using namespace std;
 
 #include <string>
 
-std::string readDNAFromFile(const std::string& filename);
+string readDNAFromFile(const std::string& filename);
 
 #endif
