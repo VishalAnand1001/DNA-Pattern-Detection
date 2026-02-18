@@ -11,7 +11,7 @@ double measureExecutionTime(const std::string& text,
     searchFunc(text, pattern);
     
     auto end = std::chrono::high_resolution_clock::now();
-    std::chrono::duration<double, std::milli> duration = end - start;
+    std::chrono::duration<double, std::milli> duration = end - start; 
     
-    return duration.count(); 
+    return duration.count(); //returns time in milliseconds
 }
